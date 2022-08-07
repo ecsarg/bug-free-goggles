@@ -1,4 +1,4 @@
-# Regex Tutorial Assignment
+# Regex Tutorial Assignment, Email Address Example
 
 In learning about regular expressions and the functional use of them, below is the breakdown understanding of an example regex. Regular expressions are useful for validation for improved overall UI. Some examples of regex uses include: email address, password, phone number, username, url, etc.
 
@@ -18,13 +18,8 @@ Below will breakdown the components of my chosen regex.
 - [Quantifiers](#quantifiers)
 - [OR Operator](#or-operator)
 - [Character Classes](#character-classes)
-- [Flags](#flags)
 - [Grouping and Capturing](#grouping-and-capturing)
 - [Bracket Expressions](#bracket-expressions)
-- [Greedy and Lazy Match](#greedy-and-lazy-match)
-- [Boundaries](#boundaries)
-- [Back-references](#back-references)
-- [Look-ahead and Look-behind](#look-ahead-and-look-behind)
 
 ## Regex Components
 
@@ -46,8 +41,6 @@ Below will breakdown the components of my chosen regex.
 - \d will match any digit
 - \. will match any character
 
-### Flags
-
 ### Grouping and Capturing
 
 - () creates a capture group of tokens within the parentheses
@@ -58,16 +51,6 @@ Below will breakdown the components of my chosen regex.
 - [\da-z\.-] any digit, any letter lowercase a-z, any character, including -
 - [a-z\.] any letter lowercase a-z, any character
 
-### Greedy and Lazy Match
-
-- 
-
-### Boundaries
-
-### Back-references
-
-### Look-ahead and Look-behind
-
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+My name is Ellie Sargent. I am currently enrolled in the Vanderbilt University Coding Bootcamp and eagerly look forward to becoming a full stack developer! My GitHub link is: https://github.com/ecsarg
